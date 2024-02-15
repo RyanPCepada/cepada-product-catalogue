@@ -1,20 +1,20 @@
 [
     {
-        "name": "Nike Air",
+        "name": "Nike Air 270",
         "Description": "Sample description",
         "price": 3000.00,
         "Date": "February 5, 2024",
         "expired": "February 5,2025"
     },
     {
-        "name": "Adidas",
+        "name": "Adidas Pam Shoe",
         "Description": "Sample description",
         "price": 2800.00,
         "Date": "February 5, 2024",
         "expired": "February 5,2025"
     },
     {
-        "name": "Puma",
+        "name": "Ferrari Black Knight",
         "Description": "Sample description",
         "price": 2500.00,
         "Date": "February 6, 2024",
