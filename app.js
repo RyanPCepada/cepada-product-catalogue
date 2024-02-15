@@ -93,8 +93,3 @@ fetchAndDisplayProducts();
 
 
 
-<script>
-function openmodal_customernotif() {
-    $('#modal_customernotif').modal('show');
-}
-</script>
