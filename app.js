@@ -29,7 +29,7 @@ async function fetchAndDisplayProducts() {
 
             // Images
             const image = document.createElement('img');
-            image.src = product.imageUrl;
+            image.src = product.img;
             image.classList.add('card-img-top'); // adding bootstrap card
 
             const cardBody = document.createElement('div');

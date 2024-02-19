@@ -1,5 +1,6 @@
 [
-    {
+    {   
+        "img": "./img/01.jpg",
         "name": "Nike Air 270",
         "Description": "Sample description",
         "price": 3000.00,
@@ -7,6 +8,7 @@
         "expired": "February 5,2025"
     },
     {
+        "img": "./img/01.jpg",
         "name": "Adidas Pam Shoe",
         "Description": "Sample description",
         "price": 2800.00,
@@ -14,6 +16,7 @@
         "expired": "February 5,2025"
     },
     {
+        "img": "./img/01.jpg",
         "name": "Ferrari Black Knight",
         "Description": "Sample description",
         "price": 2500.00,
